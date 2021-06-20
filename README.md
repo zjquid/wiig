@@ -16,5 +16,5 @@ p - places
 
 s - stupid
 
-t - things
+t - tiling
 
